@@ -38,9 +38,6 @@ def sim_songs_to(title):
         print('No. {} : {}'.format(count, item))
         count += 1
 
-sim_songs_to('22 Jump Street (2014)')
-
-sim_songs_to('Big Hero 6')
 
 
 
